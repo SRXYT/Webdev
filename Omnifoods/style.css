@@ -28,7 +28,7 @@ section{
 }
 
 header{
-     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(Main/docs/images/hero.jpg);
+     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/hero.jpg);
     background-image: linear-gradient(rgba(0, 0, 0,0.7), rgba(0, 0, 0, 0.7)), url(images/hero.jpg);
     background-size: cover;
     background-position: center;
